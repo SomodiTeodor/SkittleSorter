@@ -6,4 +6,4 @@
 
   Bill of materials: https://drive.google.com/open?id=1N_wwn5Uv6fMlDMWB8lokvte4duL8gMjJyOD18XeUJQk
 
-  Video: https://drive.google.com/open?id=1N3jy-kQ8jd46HA9-dF6bBqdhgFfDGq4_
+  Video: https://drive.google.com/open?id=1N3jy-kQ8jd46HA9-dF6bBqdhgFfDGq4\_
